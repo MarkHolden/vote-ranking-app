@@ -2,11 +2,13 @@
   {
     "name": "The Five Dysfunctions of a Team: A Leadership Fable",
     "author": "Patrick Lencioni",
-    "isbn": "9788126522743"
+    "isbn": "9788126522743",
+    "voteCount": 0
   },
   {
     "name": "A different book",
     "author": "Patrick Lencioni",
-    "isbn": "9788126522744"
+    "isbn": "9788126522744",
+    "voteCount": 0
   }
 ]
